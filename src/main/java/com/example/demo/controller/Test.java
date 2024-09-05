@@ -20,5 +20,8 @@ public class Test {
 		return "hello";
 	}
 	
+	@PostMapping("/user")
+	
+	
 
 }
